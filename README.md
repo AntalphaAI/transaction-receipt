@@ -26,6 +26,12 @@ AI Agent Skill for human-readable on-chain transaction receipts. Query tx status
 openclaw skill install https://github.com/AntalphaAI/transaction-receipt
 ```
 
+### Install via ClawHub
+
+```bash
+clawhub install transaction-receipt
+```
+
 ### Environment Variables (Optional)
 
 | Variable | Required | Description |
